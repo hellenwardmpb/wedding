@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wedding/static/css/main.e9efad5f.css",
+    "main.js": "/wedding/static/js/main.01c4bb10.js",
+    "static/js/787.4ff3cea1.chunk.js": "/wedding/static/js/787.4ff3cea1.chunk.js",
+    "index.html": "/wedding/index.html",
+    "main.e9efad5f.css.map": "/wedding/static/css/main.e9efad5f.css.map",
+    "main.01c4bb10.js.map": "/wedding/static/js/main.01c4bb10.js.map",
+    "787.4ff3cea1.chunk.js.map": "/wedding/static/js/787.4ff3cea1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9efad5f.css",
+    "static/js/main.01c4bb10.js"
+  ]
+}
